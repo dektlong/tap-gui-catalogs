@@ -4,7 +4,7 @@ metadata:
   name: backstage-component
   description: Tanzu Application Platform GUI Component
   tags:
-    - apps-v1
+    - online-store-devops
   annotations:
     'backstage.io/kubernetes-label-selector': 'app=backstage'
     'backstage.io/techdocs-ref': dir:.
